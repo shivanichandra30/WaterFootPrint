@@ -9,9 +9,10 @@ WaterFootPrint is an innovative e-commerce website designed to educate users abo
 -- Personal Water Footprint Calculator – A simple tool that allows users to estimate their daily or monthly water consumption based on lifestyle choices.
 
 #Key Features:
+
 -- Interactive Product Listings:
 
-  Each product includes a "Water Footprint Score" represented by a small blue foot icon 🦶💧, indicating the liters of water used in production.
+  Each product includes a "Water Footprint Score" represented by a small blue foot icon, indicating the liters of water used in production.
   
   Users can compare traditional products with sustainable alternatives that have a lower water footprint.
   
