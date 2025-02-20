@@ -34,4 +34,4 @@ WaterFootPrint is an **innovative e-commerce platform** designed to **educate us
 
 ---
 
-This project is aimed at driving **awareness, education, and action** towards **water conservation** while making sustainable shopping choices more accessible to everyone! 💙🌍
+This project is aimed at driving **awareness, education, and action** towards **water conservation** while making sustainable shopping choices more accessible to everyone! 
